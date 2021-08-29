@@ -1,0 +1,14 @@
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\bin\Debug\netcoreapp3.1\SampleForHttp.exe
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\obj\Debug\netcoreapp3.1\SampleForHttp.csprojAssemblyReference.cache
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\obj\Debug\netcoreapp3.1\SampleForHttp.AssemblyInfoInputs.cache
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\obj\Debug\netcoreapp3.1\SampleForHttp.AssemblyInfo.cs
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\bin\Debug\netcoreapp3.1\SampleForHttp.deps.json
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\bin\Debug\netcoreapp3.1\SampleForHttp.runtimeconfig.json
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\bin\Debug\netcoreapp3.1\SampleForHttp.runtimeconfig.dev.json
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\bin\Debug\netcoreapp3.1\SampleForHttp.dll
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\bin\Debug\netcoreapp3.1\SampleForHttp.pdb
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\obj\Debug\netcoreapp3.1\SampleForHttp.csproj.CopyComplete
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\obj\Debug\netcoreapp3.1\SampleForHttp.dll
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\obj\Debug\netcoreapp3.1\SampleForHttp.pdb
+D:\Степапка\DEX\Репозиторий\SampleForHttp\SampleForHttp\obj\Debug\netcoreapp3.1\SampleForHttp.genruntimeconfig.cache
